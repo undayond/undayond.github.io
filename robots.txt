@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://undayond.github.io/sitemap.html.gz
+Sitemap: https://undayond.github.io/app/sitemap.html.gz
+Sitemap: https://undayond.github.io/assets/sitemap.html.gz
+Sitemap: https://undayond.github.io/css/sitemap.html.gz
+Sitemap: https://undayond.github.io/data/sitemap.html.gz
+Sitemap: https://undayond.github.io/includes/sitemap.html.gz
+Sitemap: https://undayond.github.io/item/sitemap.html.gz
+Sitemap: https://undayond.github.io/src/sitemap.html.gz
